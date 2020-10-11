@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp CMakeFiles/WFGA.dir/main.cpp.o CMakeFiles/WFGA.dir/CGA.cpp.o CMakeFiles/WFGA.dir/NGA.cpp.o CMakeFiles/WFGA.dir/HGA.cpp.o CMakeFiles/WFGA.dir/LWSGA.cpp.o -o WFGA  lib/libtools.a lib/libGenOperator.a lib/libpugixml.a lib/libclassAndVarDefine.a lib/libconfig.a 

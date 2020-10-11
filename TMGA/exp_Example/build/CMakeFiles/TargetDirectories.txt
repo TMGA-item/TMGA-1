@@ -1,0 +1,10 @@
+/home/xy/TMGA/TMGA/TMGA/xiao/build/CMakeFiles/rebuild_cache.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/CMakeFiles/edit_cache.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/CMakeFiles/WFGA.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/rebuild_cache.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/edit_cache.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/config.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/GenOperator.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/tools.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/pugixml.dir
+/home/xy/TMGA/TMGA/TMGA/xiao/build/lib/CMakeFiles/classAndVarDefine.dir

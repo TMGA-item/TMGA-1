@@ -1,0 +1,10 @@
+/home/xy/newchengxu/WFGA-master/exp_Time/build/CMakeFiles/rebuild_cache.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/CMakeFiles/edit_cache.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/CMakeFiles/WFGA.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/rebuild_cache.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/edit_cache.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/config.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/GenOperator.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/tools.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/pugixml.dir
+/home/xy/newchengxu/WFGA-master/exp_Time/build/lib/CMakeFiles/classAndVarDefine.dir

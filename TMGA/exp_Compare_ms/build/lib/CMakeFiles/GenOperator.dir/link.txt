@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGenOperator.a CMakeFiles/GenOperator.dir/GenOperator.cpp.o CMakeFiles/GenOperator.dir/classAndVarDefine.cpp.o CMakeFiles/GenOperator.dir/config.cpp.o CMakeFiles/GenOperator.dir/GenerateAChrom.cpp.o CMakeFiles/GenOperator.dir/__/HEFT.cpp.o
+/usr/bin/ranlib libGenOperator.a

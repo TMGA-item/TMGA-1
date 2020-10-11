@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclassAndVarDefine.a CMakeFiles/classAndVarDefine.dir/classAndVarDefine.cpp.o CMakeFiles/classAndVarDefine.dir/__/HEFT.cpp.o
+/usr/bin/ranlib libclassAndVarDefine.a

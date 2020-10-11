@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/classAndVarDefine.h
+math.h
+../include/math.h
+vector
+-
+string
+-
+set
+-
+map
+-
+
+/home/xy/newchengxu/WFGA-master/exp_Time/lib/classAndVarDefine.cpp
+classAndVarDefine.h
+/home/xy/newchengxu/WFGA-master/exp_Time/lib/classAndVarDefine.h
+
